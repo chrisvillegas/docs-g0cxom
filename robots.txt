@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-pcscti.koi888.sbs/sitemap.xml
